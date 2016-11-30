@@ -1,5 +1,4 @@
  This is a simple Read me file.
  Adding a second line
  Adding a third line.
- Adding to check branching.
- Adding another brnch called newbranch.
+ This is bound to cause trouble.
